@@ -1,5 +1,4 @@
-import time
-
+#python
 def hello():
     print(" Hello world ")
     
